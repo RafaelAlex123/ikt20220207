@@ -2,3 +2,4 @@
 ikt github teszt
 # februar 30. a kedvenc napom 
 # halohalo
+# vsc beleiras
