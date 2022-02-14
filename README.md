@@ -4,4 +4,5 @@ ikt github teszt
 # halohalo
 # vsc beleiras
 # megint vsc beleiras
-teljesen mas
+# en ezt a sort atirom
+ 
