@@ -4,4 +4,4 @@ ikt github teszt
 # halohalo
 # vsc beleiras
 # megint vsc beleiras
-# damn son itt meg mi tortent?
+# teljesen atirom ezt a sort
