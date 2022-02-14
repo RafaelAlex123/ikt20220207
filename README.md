@@ -4,4 +4,4 @@ ikt github teszt
 # halohalo
 # vsc beleiras
 # megint vsc beleiras
-# damn son where'd you find this
+# damn son itt meg mi tortent?
