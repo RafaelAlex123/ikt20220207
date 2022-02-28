@@ -6,3 +6,6 @@ ikt github teszt
 # megint vsc beleiras
 # en ezt a sort atirom
 # otthonrol irtam bele
+zia rafiii
+# emlékszel a sztorimra UwU
+*shits himself agressivly while vomiting*
