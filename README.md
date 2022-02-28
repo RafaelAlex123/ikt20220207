@@ -5,4 +5,4 @@ ikt github teszt
 # vsc beleiras
 # megint vsc beleiras
 # en ezt a sort atirom
- # otthonrol irom lulw
+# otthonrol irtam bele
