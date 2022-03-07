@@ -8,4 +8,4 @@ ikt github teszt
 # otthonrol irtam bele
 zia rafiii
 # emlékszel a sztorimra UwU
-*shits himself agressivly while vomiting*
+
